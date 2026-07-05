@@ -1,4 +1,3 @@
-# python-journey
 # 🐍 Python Journey
 
 Welcome to my Python learning repository!
