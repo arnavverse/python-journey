@@ -15,4 +15,4 @@ match x:
     case 4:
         print("Your choosen option is incorrect ❌")
     case _:
-        print("🤣🥀".center(15))
+        print("7 croreee 🤣🥀".center(15))
