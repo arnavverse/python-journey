@@ -1,4 +1,4 @@
-# TYPECASTINGw
+# TYPECASTING
 a = "Golu "
 b = "Kakretian" 
 print(a+b)
